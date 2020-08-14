@@ -8,6 +8,10 @@ Since 2014 I've been living and breathing web development and creating modern an
 
 Currently improving my React skills: React & React Native.<br />.
 
+### What I am good at 
+
+I make random things with Javascript, Typescript, Backbone, Angular 2+, Git, UI Designs, 
+
 ### Recent works 
 - [Lexheal- Know Your Health Better](https://stoic-hopper-f4bb89.netlify.app)
 - [IFSC Code Finder](https://indian-bank-ifsc-codes.netlify.app)
