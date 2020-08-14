@@ -8,12 +8,16 @@ Since 2014 I've been living and breathing web development and creating modern an
 
 Currently improving my React skills: React & React Native.<br />.
 
+### Recent works 
+- [Lexheal- Know Your Health Better](https://stoic-hopper-f4bb89.netlify.app)
+- [IFSC Code Finder](https://indian-bank-ifsc-codes.netlify.app)
+
 
 <!-- BLOG-POST-LIST:END -->
 
 ### Find me elsewhere 🌎
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/neeraj-kumar-b55b4a30/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/_diogorodrigues)](https://twitter.com/neerajpros)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/neeraj-kumar-b55b4a30/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/neerajpro)](https://twitter.com/neerajpro)
 
 
 **[neerajpro](http://neerajpro-profile.herokuapp.com)**
