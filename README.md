@@ -24,4 +24,4 @@ I make random things with Javascript, Typescript, Backbone, Angular 2+, Git, UI 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/harshkumarkhatri/)](https://www.linkedin.com/in/neeraj-kumar-b55b4a30/)  [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/neerajpro)](https://twitter.com/neerajpro)
 
 
-**[neerajpro](http://neerajpro-profile.herokuapp.com)**
+### Portfolio: [http://neerajpro-profile.herokuapp.com](http://neerajpro-profile.herokuapp.com)
