@@ -10,7 +10,7 @@ Currently improving my React skills: React & React Native.<br />.
 
 ### What I am good at 
 
-I make random things with Javascript, Typescript, Backbone, Angular 2+, Git, UI Designs, 
+I make random things with Javascript, Typescript, React, Backbone, Angular 2+, Git, UI Designs, Material Designs, Bulma, Tailwind CSS & Ant Designs.
 
 ### Recent works 
 - [Lexheal- Know Your Health Better](https://stoic-hopper-f4bb89.netlify.app)
