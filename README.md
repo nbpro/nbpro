@@ -15,7 +15,7 @@ I make random things with Javascript, Typescript, React, Backbone, Angular 2+, G
 ### Recent works March-August 2020
 - [Lexheal- Know Your Health Better](https://lexheal.com)
 - [IFSC Code Finder](https://indian-bank-ifsc-codes.netlify.app)
-- [Shradha] (https://stoic-liskov-669f46.netlify.app/)
+- [Shradha](https://stoic-liskov-669f46.netlify.app)
 
 
 <!-- BLOG-POST-LIST:END -->
