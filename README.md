@@ -6,7 +6,7 @@ Since 2014 I've been living and breathing web development and creating modern an
 
 ### What I'm focusing on 👨‍💻
 
-Currently improving my React skills: React & React Native.<br />.
+Currently improving my React skills: React & React Native.<br />. Parallely working on microfrontend and yarn workspaces.
 
 ### What I am good at 
 
