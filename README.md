@@ -6,17 +6,11 @@ Since 2014 I've been living and breathing web development and creating modern an
 
 ### What I'm focusing on 👨‍💻
 
-Currently working on Decentralised Systems and app using React & Nedb.<br />. Parallely working on microfrontend and yarn workspaces.
+Microfrontend | App aggregation | Angular | React | Rxjs , Github actions
 
 ### What I am good at 
 
 I make random things with Javascript, Typescript, React, Backbone, Angular 2+, Git, UI Designs, Material Designs, Bulma, Tailwind CSS & Ant Designs.
-
-### Recent works March-August 2020
-- [Lexheal- Know Your Health Better](https://lexheal.com)
-- [IFSC Code Finder](https://indian-bank-ifsc-codes.netlify.app)
-- [Shradha](https://stoic-liskov-669f46.netlify.app)
-
 
 <!-- BLOG-POST-LIST:END -->
 
